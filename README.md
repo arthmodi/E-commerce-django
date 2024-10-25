@@ -1,6 +1,6 @@
 # E-commerce Django
 
-A simple E-commerce application built with Django, showcasing the functionality of a full-stack web application for managing products, orders, and customers.
+A simple E-commerce application built with Django, showcasing the functionality of a web application for managing products, orders, and customers.
 
 ## Features
 
